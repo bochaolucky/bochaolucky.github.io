@@ -1,0 +1,28 @@
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
+
+"PhysRev":
+  url: https://journals.aps.org/
+
+"Complexity":
+  url: https://www.hindawi.com/journals/complexity/
+  color: "#3295A2"
+
+"UAIS":
+  url: https://www.springer.com/journal/10209/
+  color: "#EA9619"
+
+"applsci":
+  url: https://www.mdpi.com/journal/applsci
+  color: "#4C447B"
+
+"PII":
+  url: https://www.sciencedirect.com/journal/procedia-computer-science/vol/130/suppl/C
+  color: "#DBDCDD"
+
+"JNE":
+  url: https://iopscience.iop.org/journal/1741-2552
+  color: "#264F9E"
+
+
